@@ -12,9 +12,9 @@ I created a Python script to visualize the weather of 500+ cities across the wor
 
 - Southern Hemisphere climates tend to be slightly milder than those at similar latitudes in the Northern Hemisphere. This is because the Southern Hemisphere has significantly more ocean and much less land; water heats up and cools down more slowly than land.
 
-- "Highest temperature is found at 0 latitude and as the latidude increases or decreases, temperature drops. This happens as equatorial region receives sunlight straight with less or no angle due to curvature shape of earth.\n",
+- "Highest temperature is found at 0 latitude and as the latidude increases or decreases, temperature drops. This happens as equatorial region receives sunlight straight with less or no angle due to curvature shape of earth."
 
-- "Latitude doesn't have a strong iinfluence on wind speed. The speed of the wind is controlled by the strength of the air pressure gradient, the stronger the pressure gradient the higher the wind speed. "
+- "Latitude doesn't have a strong influence on wind speed. The speed of the wind is controlled by the strength of the air pressure gradient, the stronger the pressure gradient the higher the wind speed. "
 
 ## Objectives
 
@@ -29,7 +29,6 @@ Highest temperature is found at 0 latitude and as the latidude increases or decr
   Polar regions have lower humidity and as latitude gets higher,humidity gets higher in southern hemisphere.
 
 - Cloudiness (%) vs. Latitude
-
 
 Cloudiness data is widely spread across the latitude.
 
@@ -105,5 +104,5 @@ Now I want to use my skills in working with weather data to plan future vacation
 
   - Install citypy in your python environment (https://pypi.python.org/pypi/citipy)
   - Save OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
-  - Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
+  - Save Geoapify API Key (https://apidocs.geoapify.com/) as 'geoapify_key'
   - Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
